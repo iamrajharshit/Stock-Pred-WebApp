@@ -1,5 +1,0 @@
-prompt-toolkit==3.0.43
-prophet==1.1.5
-streamlit==1.29.0
-plotly==5.23.0
-yfinance==0.2.41
