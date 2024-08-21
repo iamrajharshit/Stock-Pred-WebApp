@@ -13,4 +13,4 @@
 <img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/Screenshot%20(591).png">
 
 ## Future Trends
-<img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/Screenshot%20(5992).png">
+<img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/Screenshot%20(592).png">
