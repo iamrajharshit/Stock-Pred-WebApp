@@ -1,5 +1,5 @@
 # Realtime Stock Prediction using yfinance and Prophet
-
+- **Overview**: This project uses the yfinance library to fetch real-time stock data and the Prophet library  to make predictions. The goal is to create a model that can accurately forecast stock prices based on historical
 ## Interfaace
 <img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/Screenshot%20(588).png">
 
