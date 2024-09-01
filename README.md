@@ -6,6 +6,7 @@
 
 ## Interfaace
 <img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/Screenshot%20(588).png">
+
 ## Histogram
 <img src="https://github.com/iamrajharshit/Stock-Pred-WebApp/blob/main/img/image.png">
 
